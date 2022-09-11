@@ -1,0 +1,6 @@
+
+.collapsing{
+    height: 280px;
+    /* transition: height 1s ease-in; */
+    transition-duration: 800ms;
+}
