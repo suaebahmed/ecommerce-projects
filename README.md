@@ -11,7 +11,4 @@
 -   [Tailwind CSS](https://tailwindcss.com)
 -   [Merakiui](https://merakiui.com/components)
 -   [Unsplash](https://unsplash.com)
--   [Freepik Stories](https://stories.freepik.com)
--   [AlpineJS](https://alpinejs.dev)
 -   [Heroicons](https://heroicons.dev)
--   [Coolicons](https://coolicons.cool)
