@@ -1,6 +1,11 @@
-# this is my ecommerce projects
+# This is my ecommerce projects
 
-# leaning points
+# Technologies used :
+- React.js & react context
+- Tailwind  CSS
+- Html & CSS
+
+# Leaning points
     1. tailwind continer grid flex
     2. SVG change fill color
     3. Build Accordion
@@ -9,6 +14,7 @@
 ### Resources
 
 -   [Tailwind CSS](https://tailwindcss.com)
--   [Merakiui](https://merakiui.com/components)
+<!-- -   [Merakiui](https://merakiui.com/components) -->
 -   [Unsplash](https://unsplash.com)
--   [Heroicons](https://heroicons.dev)
+-   [React Icons](https://react-icons.github.io)
+<!-- -   [Heroicons](https://heroicons.dev) -->

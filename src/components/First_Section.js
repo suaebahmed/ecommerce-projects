@@ -14,7 +14,7 @@ function First_Section() {
       </div>
     </div>
     <div className='my-auto'>
-      <img src={iphone}></img>
+      <img src={iphone} alt=''></img>
     </div>
   </div>
   )
