@@ -1,40 +1,52 @@
 {
     "products" :[
-        {
-            "name": "Apple iPhone 13 Pro Max",
-            "display-size" : "5.6 inches display",
-            "image-url" : "./images/iphone-13-pro-max-01.jpg",
-            "price" : 420
-        },
-        {
+        {   
+            "_id" : 101,
             "name": "Apple iPhone 14 Pro",
             "display-size" : "6.00 inches display",
             "image-url" : "./images/Apple-iPhone-14-x.jpg",
-            "price" : 750
+            "price" : 750,
+            "amount" : 1
         },
         {
+            "_id" : 102,
             "name": "Apple iPhone 14",
             "display-size" : "6.7 inches display",
             "image-url" : "./images/iphone_14_.jpg",
-            "price" : 560
+            "price" : 560,
+            "amount" : 1
         },
         {
+            "_id" : 103,
             "name": "Apple iPhone 12 Mini",
             "display-size" : "5.4 inches display",
             "image-url" : "./images/iphone-12-mini-r1.jpg",
-            "price" : 599
+            "price" : 599,
+            "amount" : 1
         },
         {
-            "name": "Apple iPhone 11",
-            "display-size" : "6.4 inches disply",
-            "image-url" : "./images/iphone-11-2019.jpg",
-            "price" : 520
-        },
-        {
+            "_id" : 104,
             "name": "Apple iPhone 11 Pro Max",
             "display-size" : "6.2 inches disply",
             "image-url" : "./images/iPhone 11 Pro-max.webp",
-            "price" : 580
+            "price" : 580,
+            "amount" : 1
+        },
+        {
+            "_id" : 105,
+            "name": "Apple iPhone 11",
+            "display-size" : "6.4 inches disply",
+            "image-url" : "./images/iphone-11-2019.jpg",
+            "price" : 520,
+            "amount" : 1
+        },
+        {
+            "_id" : 106,
+            "name": "Apple iPhone 13 Pro Max",
+            "display-size" : "5.6 inches display",
+            "image-url" : "./images/iphone-13-pro-max-01.jpg",
+            "price" : 420,
+            "amount" : 1
         }
     ]
 }
