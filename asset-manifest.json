@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecommerce-projects/static/css/main.15af357f.css",
+    "main.js": "/ecommerce-projects/static/js/main.a4403eb9.js",
+    "static/media/payment.9058ba4d.jpg": "/ecommerce-projects/static/media/payment.9058ba4d.9058ba4d481fbd69f508.jpg",
+    "static/media/Apple-iPhone-14.jpg": "/ecommerce-projects/static/media/Apple-iPhone-14.4b002560cf2bc27e1ab4.jpg",
+    "static/media/preview-question.jpg": "/ecommerce-projects/static/media/preview-question.c78fda9c80fcbd712398.jpg",
+    "static/media/amazon.svg": "/ecommerce-projects/static/media/amazon.e4a7e10ce99a8bc02b63eed24cbd0da1.svg",
+    "static/media/digitalO.svg": "/ecommerce-projects/static/media/digitalO.8bdcebc9e767b8fc297bf0f81d2d0950.svg",
+    "static/media/facebook.svg": "/ecommerce-projects/static/media/facebook.d7d63add3cd6b2a6e17fb30eeada1a42.svg",
+    "static/media/logo.svg": "/ecommerce-projects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/adove.svg": "/ecommerce-projects/static/media/adove.4e349b4a02f0ffb1a45f8171c7cbe503.svg",
+    "index.html": "/ecommerce-projects/index.html",
+    "static/media/tesla.svg": "/ecommerce-projects/static/media/tesla.ad03a0fd62e3619be82de377b46b6d10.svg",
+    "main.15af357f.css.map": "/ecommerce-projects/static/css/main.15af357f.css.map",
+    "main.a4403eb9.js.map": "/ecommerce-projects/static/js/main.a4403eb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15af357f.css",
+    "static/js/main.a4403eb9.js"
+  ]
+}
