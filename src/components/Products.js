@@ -5,10 +5,14 @@ function Products() {
   const [products,setProducts] = useState([]);
   useEffect(()=>{
     const getData = async () =>{
-        var res = await fetch('/products_data.json');
+      try {
+        var res = await fetch('/ecommerce-projects/products_data.json');
         var data = await res.json();
         setProducts(data.products);
+      } catch (error) {
+        console.log(error);
       }
+    }
     getData();
 
   },[]);
