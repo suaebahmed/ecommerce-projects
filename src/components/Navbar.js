@@ -14,7 +14,7 @@ function Navbar() {
   return (
     <div className='fixed bg-white w-full h-[65px] flex justify-between items-center shadow-md text-gray-700 px-4 z-20'>
         <div>
-            <a href='/'>
+            <a href='/ecommerce-projects'>
                 <img className='w-[50px]' src={logo} alt='logo'></img>
             </a>
         </div>
@@ -22,7 +22,7 @@ function Navbar() {
         {/* manu */}
         <ul className='hidden md:flex justify-center items-center'>
             <li className='px-4 cursor-pointer'>
-                <a href='/'>Home</a>
+                <a href='/ecommerce-projects'>Home</a>
             </li>
             {/* Cart icon with red badge */}
             <li onClick={OpenCartHandle} className='px-4 cursor-pointer relative'>

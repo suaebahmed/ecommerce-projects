@@ -8,13 +8,14 @@ function Cartmodel() {
 
   return (
     // cart overlay - background-color with opacity
-    <div className={isCartOpen?'fixed w-full h-full bg-[rgba(254,226,226,0.5)] z-30':'invisible fixed w-full h-full z-30'}>
+    <div className={isCartOpen?'fixed w-full h-full bg-[rgba(196,219,238,0.5)] z-30':'invisible fixed w-full h-full z-30'}>
         {/* cart body */}
         <div className={`sm:w-[35vw] relative w-full h-full ${isCartOpen?`translate-x-0`:`translate-x-full`} duration-500 float-right px-6 pt-4 bg-white border`}>
             <span className='text-4xl'>
                 <AiOutlineCloseSquare onClick={OpenCartHandle} className='cursor-pointer'/>
             </span>
-            {/* <div className='overscroll-x-auto overflow-y-auto'> */}
+            {/* to scroll cart products and custom scrollbar */}
+            <div className='w-full h-[90%] overflow-y-scroll' style={{"scrollbarWidth":"none"}}>
                 <h2 className='text-center text-xl font-semibold text-gray-700'>Your cart</h2>
                 <div className='cart-content'>
                     {/* cart item */}
@@ -43,7 +44,7 @@ function Cartmodel() {
                     CLEAR CART
                     </button>
                 </div>
-            {/* </div> */}
+            </div>
         </div>
     </div>
   )
